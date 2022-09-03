@@ -3,3 +3,4 @@
 layers/collector_common/python/lib
 layers/wheels
 layers/zips
+__pycache__
